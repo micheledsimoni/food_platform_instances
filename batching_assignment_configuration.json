@@ -1,0 +1,13 @@
+{"wait_cost(rp/min)": 1,
+  "travel_cost(rp/km)": 6,
+  "fixed_cost(rp)": 5,
+  "delay_cost(rp/min)": 100,
+  "max_batch_size": 4,
+  "avg_courier_speed(m/s)": 5,
+  "max_capacity_couriers": 6,
+  "similarity_measure": 0,
+  "clustering_method": 1,
+  "pdp_algorithm": 1,
+  "optimization_method": 0,
+  "allow_chained_trips": 0
+}

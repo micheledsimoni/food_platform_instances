@@ -1,0 +1,8 @@
+{
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "scenario": "instance1",
+    "simulation_time_step": 2,
+    "assignment_model_time_step": 120,
+    "visualize_routes": true
+}
