@@ -1,0 +1,5867 @@
+{
+    "couriers": [
+        {
+            "capacity": 6,
+            "courier_id": "DE0",
+            "courier_lat_lng": [
+                -71.06724958974458,
+                42.376425697146914
+            ],
+            "speed": 5,
+            "time_login": 35999,
+            "time_logout": 36920
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE1",
+            "courier_lat_lng": [
+                -71.08740434517287,
+                42.37357210427977
+            ],
+            "speed": 5,
+            "time_login": 35999,
+            "time_logout": 37270
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE2",
+            "courier_lat_lng": [
+                -71.09637993362917,
+                42.37884330331497
+            ],
+            "speed": 5,
+            "time_login": 35999,
+            "time_logout": 38859
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE3",
+            "courier_lat_lng": [
+                -71.08899647146242,
+                42.38408576708344
+            ],
+            "speed": 5,
+            "time_login": 35999,
+            "time_logout": 37338
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE4",
+            "courier_lat_lng": [
+                -71.09751975154263,
+                42.37239810251174
+            ],
+            "speed": 5,
+            "time_login": 35999,
+            "time_logout": 39451
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE5",
+            "courier_lat_lng": [
+                -71.08150939913548,
+                42.3825857696962
+            ],
+            "speed": 5,
+            "time_login": 35999,
+            "time_logout": 37466
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE6",
+            "courier_lat_lng": [
+                -71.09046792905684,
+                42.37713820797545
+            ],
+            "speed": 5,
+            "time_login": 35999,
+            "time_logout": 37381
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE7",
+            "courier_lat_lng": [
+                -71.05345318458008,
+                42.38052221650372
+            ],
+            "speed": 5,
+            "time_login": 35999,
+            "time_logout": 37837
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE8",
+            "courier_lat_lng": [
+                -71.05627364504637,
+                42.37734104344885
+            ],
+            "speed": 5,
+            "time_login": 35999,
+            "time_logout": 39091
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE9",
+            "courier_lat_lng": [
+                -71.07245592339127,
+                42.384599470023275
+            ],
+            "speed": 5,
+            "time_login": 35999,
+            "time_logout": 36025
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE10",
+            "courier_lat_lng": [
+                -71.03819016591574,
+                42.378072466340605
+            ],
+            "speed": 5,
+            "time_login": 35999,
+            "time_logout": 38505
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE11",
+            "courier_lat_lng": [
+                -71.05091169339957,
+                42.3789873428404
+            ],
+            "speed": 5,
+            "time_login": 35999,
+            "time_logout": 36638
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE12",
+            "courier_lat_lng": [
+                -71.08839368827049,
+                42.38218701494959
+            ],
+            "speed": 5,
+            "time_login": 35999,
+            "time_logout": 36531
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE13",
+            "courier_lat_lng": [
+                -71.05759733379857,
+                42.36364126917088
+            ],
+            "speed": 5,
+            "time_login": 35999,
+            "time_logout": 36185
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE14",
+            "courier_lat_lng": [
+                -71.03231928919872,
+                42.364051155697375
+            ],
+            "speed": 5,
+            "time_login": 35999,
+            "time_logout": 38685
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE15",
+            "courier_lat_lng": [
+                -71.08253438545502,
+                42.3786208884632
+            ],
+            "speed": 5,
+            "time_login": 35999,
+            "time_logout": 37149
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE16",
+            "courier_lat_lng": [
+                -71.0759711867175,
+                42.37899753829408
+            ],
+            "speed": 5,
+            "time_login": 35999,
+            "time_logout": 37995
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE17",
+            "courier_lat_lng": [
+                -71.06789845804389,
+                42.36229333375829
+            ],
+            "speed": 5,
+            "time_login": 35999,
+            "time_logout": 38333
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE18",
+            "courier_lat_lng": [
+                -71.01735319534808,
+                42.38004569242614
+            ],
+            "speed": 5,
+            "time_login": 35999,
+            "time_logout": 39343
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE19",
+            "courier_lat_lng": [
+                -71.09048069085333,
+                42.370119224542684
+            ],
+            "speed": 5,
+            "time_login": 35999,
+            "time_logout": 36454
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE20",
+            "courier_lat_lng": [
+                -71.0782213144177,
+                42.3724811370708
+            ],
+            "speed": 5,
+            "time_login": 35999,
+            "time_logout": 38047
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE21",
+            "courier_lat_lng": [
+                -71.03739128068824,
+                42.38249472774571
+            ],
+            "speed": 5,
+            "time_login": 35999,
+            "time_logout": 36833
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE22",
+            "courier_lat_lng": [
+                -71.03799398878641,
+                42.37827056021168
+            ],
+            "speed": 5,
+            "time_login": 35999,
+            "time_logout": 39529
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE23",
+            "courier_lat_lng": [
+                -71.09603195163342,
+                42.376619433795085
+            ],
+            "speed": 5,
+            "time_login": 35999,
+            "time_logout": 37624
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE24",
+            "courier_lat_lng": [
+                -71.03597896615422,
+                42.38164797753405
+            ],
+            "speed": 5,
+            "time_login": 35999,
+            "time_logout": 37616
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE25",
+            "courier_lat_lng": [
+                -71.04696519221064,
+                42.36325832040647
+            ],
+            "speed": 5,
+            "time_login": 36001,
+            "time_logout": 39373
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE26",
+            "courier_lat_lng": [
+                -71.06389304141655,
+                42.36233618280843
+            ],
+            "speed": 5,
+            "time_login": 36006,
+            "time_logout": 38047
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE27",
+            "courier_lat_lng": [
+                -71.05883819441382,
+                42.38183316690112
+            ],
+            "speed": 5,
+            "time_login": 36010,
+            "time_logout": 38388
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE28",
+            "courier_lat_lng": [
+                -71.06053457569408,
+                42.36931797627714
+            ],
+            "speed": 5,
+            "time_login": 36019,
+            "time_logout": 37526
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE29",
+            "courier_lat_lng": [
+                -71.01958969708957,
+                42.37128547542681
+            ],
+            "speed": 5,
+            "time_login": 36052,
+            "time_logout": 39478
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE30",
+            "courier_lat_lng": [
+                -71.02047464427355,
+                42.380978060313204
+            ],
+            "speed": 5,
+            "time_login": 36060,
+            "time_logout": 36650
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE31",
+            "courier_lat_lng": [
+                -71.03001055528102,
+                42.386926913981036
+            ],
+            "speed": 5,
+            "time_login": 36061,
+            "time_logout": 36400
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE32",
+            "courier_lat_lng": [
+                -71.09890580555314,
+                42.37987862709321
+            ],
+            "speed": 5,
+            "time_login": 36065,
+            "time_logout": 36181
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE33",
+            "courier_lat_lng": [
+                -71.03601335926045,
+                42.381319654258924
+            ],
+            "speed": 5,
+            "time_login": 36077,
+            "time_logout": 39272
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE34",
+            "courier_lat_lng": [
+                -71.09125783790027,
+                42.38084237335237
+            ],
+            "speed": 5,
+            "time_login": 36089,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE35",
+            "courier_lat_lng": [
+                -71.03685601371035,
+                42.383581104776326
+            ],
+            "speed": 5,
+            "time_login": 36091,
+            "time_logout": 39314
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE36",
+            "courier_lat_lng": [
+                -71.0953459235728,
+                42.37817038175989
+            ],
+            "speed": 5,
+            "time_login": 36112,
+            "time_logout": 37016
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE37",
+            "courier_lat_lng": [
+                -71.07236846172593,
+                42.38477618980634
+            ],
+            "speed": 5,
+            "time_login": 36118,
+            "time_logout": 37469
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE38",
+            "courier_lat_lng": [
+                -71.03910030694594,
+                42.371064069662864
+            ],
+            "speed": 5,
+            "time_login": 36141,
+            "time_logout": 36838
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE39",
+            "courier_lat_lng": [
+                -71.01620993924634,
+                42.379843061096544
+            ],
+            "speed": 5,
+            "time_login": 36152,
+            "time_logout": 37841
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE40",
+            "courier_lat_lng": [
+                -71.02827124067822,
+                42.360089422947
+            ],
+            "speed": 5,
+            "time_login": 36167,
+            "time_logout": 38112
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE41",
+            "courier_lat_lng": [
+                -71.05707906385824,
+                42.3631294806929
+            ],
+            "speed": 5,
+            "time_login": 36168,
+            "time_logout": 37128
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE42",
+            "courier_lat_lng": [
+                -71.0744055792901,
+                42.38117809042515
+            ],
+            "speed": 5,
+            "time_login": 36168,
+            "time_logout": 38859
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE43",
+            "courier_lat_lng": [
+                -71.0309495862053,
+                42.374604622857404
+            ],
+            "speed": 5,
+            "time_login": 36221,
+            "time_logout": 38088
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE44",
+            "courier_lat_lng": [
+                -71.04043752935893,
+                42.374254532132625
+            ],
+            "speed": 5,
+            "time_login": 36232,
+            "time_logout": 37786
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE45",
+            "courier_lat_lng": [
+                -71.01595867147881,
+                42.367658800394146
+            ],
+            "speed": 5,
+            "time_login": 36238,
+            "time_logout": 39256
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE46",
+            "courier_lat_lng": [
+                -71.03627279032293,
+                42.37320915129684
+            ],
+            "speed": 5,
+            "time_login": 36239,
+            "time_logout": 37406
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE47",
+            "courier_lat_lng": [
+                -71.0362378582589,
+                42.38473641262787
+            ],
+            "speed": 5,
+            "time_login": 36249,
+            "time_logout": 36498
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE48",
+            "courier_lat_lng": [
+                -71.09840240370153,
+                42.38371522615973
+            ],
+            "speed": 5,
+            "time_login": 36263,
+            "time_logout": 38850
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE49",
+            "courier_lat_lng": [
+                -71.05498008610796,
+                42.36075997267275
+            ],
+            "speed": 5,
+            "time_login": 36273,
+            "time_logout": 38517
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE50",
+            "courier_lat_lng": [
+                -71.08407004885892,
+                42.3722531597629
+            ],
+            "speed": 5,
+            "time_login": 36296,
+            "time_logout": 38518
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE51",
+            "courier_lat_lng": [
+                -71.08724199427441,
+                42.38323937987899
+            ],
+            "speed": 5,
+            "time_login": 36299,
+            "time_logout": 37246
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE52",
+            "courier_lat_lng": [
+                -71.08451755427465,
+                42.37027050992494
+            ],
+            "speed": 5,
+            "time_login": 36318,
+            "time_logout": 37109
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE53",
+            "courier_lat_lng": [
+                -71.02843944992253,
+                42.37727345723794
+            ],
+            "speed": 5,
+            "time_login": 36320,
+            "time_logout": 36920
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE54",
+            "courier_lat_lng": [
+                -71.04587806290141,
+                42.38624705362624
+            ],
+            "speed": 5,
+            "time_login": 36321,
+            "time_logout": 38894
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE55",
+            "courier_lat_lng": [
+                -71.05910350456466,
+                42.38253782736794
+            ],
+            "speed": 5,
+            "time_login": 36324,
+            "time_logout": 36412
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE56",
+            "courier_lat_lng": [
+                -71.08302197490784,
+                42.366503444485026
+            ],
+            "speed": 5,
+            "time_login": 36354,
+            "time_logout": 36856
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE57",
+            "courier_lat_lng": [
+                -71.08783440874846,
+                42.3610107924925
+            ],
+            "speed": 5,
+            "time_login": 36382,
+            "time_logout": 37839
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE58",
+            "courier_lat_lng": [
+                -71.08990011862217,
+                42.36307953111762
+            ],
+            "speed": 5,
+            "time_login": 36392,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE59",
+            "courier_lat_lng": [
+                -71.05553812921265,
+                42.3789008632205
+            ],
+            "speed": 5,
+            "time_login": 36393,
+            "time_logout": 38519
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE60",
+            "courier_lat_lng": [
+                -71.06055978352421,
+                42.383159875350614
+            ],
+            "speed": 5,
+            "time_login": 36395,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE61",
+            "courier_lat_lng": [
+                -71.05900459018928,
+                42.378303972598445
+            ],
+            "speed": 5,
+            "time_login": 36403,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE62",
+            "courier_lat_lng": [
+                -71.07173685377421,
+                42.37804320677108
+            ],
+            "speed": 5,
+            "time_login": 36404,
+            "time_logout": 37659
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE63",
+            "courier_lat_lng": [
+                -71.08581599772909,
+                42.37798503981676
+            ],
+            "speed": 5,
+            "time_login": 36409,
+            "time_logout": 39373
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE64",
+            "courier_lat_lng": [
+                -71.07681551503056,
+                42.385347494207835
+            ],
+            "speed": 5,
+            "time_login": 36419,
+            "time_logout": 37515
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE65",
+            "courier_lat_lng": [
+                -71.03454170556661,
+                42.38351866480116
+            ],
+            "speed": 5,
+            "time_login": 36443,
+            "time_logout": 36532
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE66",
+            "courier_lat_lng": [
+                -71.01908819812168,
+                42.37952088230783
+            ],
+            "speed": 5,
+            "time_login": 36450,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE67",
+            "courier_lat_lng": [
+                -71.07966396734153,
+                42.38112252582053
+            ],
+            "speed": 5,
+            "time_login": 36450,
+            "time_logout": 37414
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE68",
+            "courier_lat_lng": [
+                -71.05605526399233,
+                42.36281255508223
+            ],
+            "speed": 5,
+            "time_login": 36453,
+            "time_logout": 36856
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE69",
+            "courier_lat_lng": [
+                -71.04015520401761,
+                42.36311160554362
+            ],
+            "speed": 5,
+            "time_login": 36455,
+            "time_logout": 38513
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE70",
+            "courier_lat_lng": [
+                -71.05682806650903,
+                42.37378431246387
+            ],
+            "speed": 5,
+            "time_login": 36489,
+            "time_logout": 37466
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE71",
+            "courier_lat_lng": [
+                -71.03354950960777,
+                42.3777547024604
+            ],
+            "speed": 5,
+            "time_login": 36492,
+            "time_logout": 38279
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE72",
+            "courier_lat_lng": [
+                -71.05884555577435,
+                42.37768349519761
+            ],
+            "speed": 5,
+            "time_login": 36503,
+            "time_logout": 39177
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE73",
+            "courier_lat_lng": [
+                -71.03824741882968,
+                42.38540456176619
+            ],
+            "speed": 5,
+            "time_login": 36509,
+            "time_logout": 39215
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE74",
+            "courier_lat_lng": [
+                -71.05142741122324,
+                42.369447304707684
+            ],
+            "speed": 5,
+            "time_login": 36515,
+            "time_logout": 39520
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE75",
+            "courier_lat_lng": [
+                -71.07428783704407,
+                42.37997179287104
+            ],
+            "speed": 5,
+            "time_login": 36520,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE76",
+            "courier_lat_lng": [
+                -71.03626239250241,
+                42.36862904677758
+            ],
+            "speed": 5,
+            "time_login": 36523,
+            "time_logout": 39031
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE77",
+            "courier_lat_lng": [
+                -71.03725157058183,
+                42.36674950149811
+            ],
+            "speed": 5,
+            "time_login": 36547,
+            "time_logout": 37147
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE78",
+            "courier_lat_lng": [
+                -71.09416406415801,
+                42.38465503595846
+            ],
+            "speed": 5,
+            "time_login": 36548,
+            "time_logout": 37580
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE79",
+            "courier_lat_lng": [
+                -71.06058894843997,
+                42.3777931725568
+            ],
+            "speed": 5,
+            "time_login": 36555,
+            "time_logout": 38385
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE80",
+            "courier_lat_lng": [
+                -71.08447484533627,
+                42.36856889938559
+            ],
+            "speed": 5,
+            "time_login": 36561,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE81",
+            "courier_lat_lng": [
+                -71.08412905186685,
+                42.383979773473314
+            ],
+            "speed": 5,
+            "time_login": 36570,
+            "time_logout": 39272
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE82",
+            "courier_lat_lng": [
+                -71.07313305810081,
+                42.37803916842173
+            ],
+            "speed": 5,
+            "time_login": 36574,
+            "time_logout": 37696
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE83",
+            "courier_lat_lng": [
+                -71.07742603614274,
+                42.367872923140425
+            ],
+            "speed": 5,
+            "time_login": 36581,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE84",
+            "courier_lat_lng": [
+                -71.02792345308202,
+                42.375577288710325
+            ],
+            "speed": 5,
+            "time_login": 36588,
+            "time_logout": 36602
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE85",
+            "courier_lat_lng": [
+                -71.05161709646158,
+                42.37508010544686
+            ],
+            "speed": 5,
+            "time_login": 36591,
+            "time_logout": 37016
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE86",
+            "courier_lat_lng": [
+                -71.08890392710744,
+                42.38743956108705
+            ],
+            "speed": 5,
+            "time_login": 36594,
+            "time_logout": 38648
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE87",
+            "courier_lat_lng": [
+                -71.03013203917254,
+                42.38271417595024
+            ],
+            "speed": 5,
+            "time_login": 36598,
+            "time_logout": 37068
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE88",
+            "courier_lat_lng": [
+                -71.07167802957133,
+                42.36050770232611
+            ],
+            "speed": 5,
+            "time_login": 36606,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE89",
+            "courier_lat_lng": [
+                -71.08447213065168,
+                42.36604792263555
+            ],
+            "speed": 5,
+            "time_login": 36639,
+            "time_logout": 37631
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE90",
+            "courier_lat_lng": [
+                -71.08709346293232,
+                42.36649268275092
+            ],
+            "speed": 5,
+            "time_login": 36644,
+            "time_logout": 38040
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE91",
+            "courier_lat_lng": [
+                -71.0636608632268,
+                42.364579304513725
+            ],
+            "speed": 5,
+            "time_login": 36648,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE92",
+            "courier_lat_lng": [
+                -71.08021078532241,
+                42.36973238694242
+            ],
+            "speed": 5,
+            "time_login": 36650,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE93",
+            "courier_lat_lng": [
+                -71.09609293267529,
+                42.36158677524457
+            ],
+            "speed": 5,
+            "time_login": 36657,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE94",
+            "courier_lat_lng": [
+                -71.05819860786039,
+                42.36509240165762
+            ],
+            "speed": 5,
+            "time_login": 36670,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE95",
+            "courier_lat_lng": [
+                -71.06992293090002,
+                42.36691178164169
+            ],
+            "speed": 5,
+            "time_login": 36677,
+            "time_logout": 38104
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE96",
+            "courier_lat_lng": [
+                -71.02441053117647,
+                42.38409364871078
+            ],
+            "speed": 5,
+            "time_login": 36677,
+            "time_logout": 39502
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE97",
+            "courier_lat_lng": [
+                -71.0555541520266,
+                42.36642676057332
+            ],
+            "speed": 5,
+            "time_login": 36678,
+            "time_logout": 38147
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE98",
+            "courier_lat_lng": [
+                -71.05614920988205,
+                42.3832814948537
+            ],
+            "speed": 5,
+            "time_login": 36681,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE99",
+            "courier_lat_lng": [
+                -71.03049265850329,
+                42.38483546458225
+            ],
+            "speed": 5,
+            "time_login": 36685,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE100",
+            "courier_lat_lng": [
+                -71.0478576941602,
+                42.381694010079656
+            ],
+            "speed": 5,
+            "time_login": 36689,
+            "time_logout": 37270
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE101",
+            "courier_lat_lng": [
+                -71.07270349334185,
+                42.3820720644583
+            ],
+            "speed": 5,
+            "time_login": 36693,
+            "time_logout": 39088
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE102",
+            "courier_lat_lng": [
+                -71.08133466036762,
+                42.37141403199596
+            ],
+            "speed": 5,
+            "time_login": 36696,
+            "time_logout": 38734
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE103",
+            "courier_lat_lng": [
+                -71.07416893753413,
+                42.37156620372029
+            ],
+            "speed": 5,
+            "time_login": 36713,
+            "time_logout": 38675
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE104",
+            "courier_lat_lng": [
+                -71.05180946332759,
+                42.38146605305065
+            ],
+            "speed": 5,
+            "time_login": 36715,
+            "time_logout": 37289
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE105",
+            "courier_lat_lng": [
+                -71.09812861710604,
+                42.383763463362236
+            ],
+            "speed": 5,
+            "time_login": 36720,
+            "time_logout": 37963
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE106",
+            "courier_lat_lng": [
+                -71.06063393916624,
+                42.38400136181219
+            ],
+            "speed": 5,
+            "time_login": 36722,
+            "time_logout": 37466
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE107",
+            "courier_lat_lng": [
+                -71.07307147222973,
+                42.37147581159245
+            ],
+            "speed": 5,
+            "time_login": 36724,
+            "time_logout": 36761
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE108",
+            "courier_lat_lng": [
+                -71.02114983511596,
+                42.36744336727275
+            ],
+            "speed": 5,
+            "time_login": 36735,
+            "time_logout": 36928
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE109",
+            "courier_lat_lng": [
+                -71.0649063974767,
+                42.37659157266756
+            ],
+            "speed": 5,
+            "time_login": 36743,
+            "time_logout": 37497
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE110",
+            "courier_lat_lng": [
+                -71.04884321011687,
+                42.387559876952366
+            ],
+            "speed": 5,
+            "time_login": 36744,
+            "time_logout": 38077
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE111",
+            "courier_lat_lng": [
+                -71.07379450485679,
+                42.37764188762953
+            ],
+            "speed": 5,
+            "time_login": 36745,
+            "time_logout": 39177
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE112",
+            "courier_lat_lng": [
+                -71.05625664483918,
+                42.36686184956406
+            ],
+            "speed": 5,
+            "time_login": 36760,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE113",
+            "courier_lat_lng": [
+                -71.0261842280623,
+                42.36762671920363
+            ],
+            "speed": 5,
+            "time_login": 36769,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE114",
+            "courier_lat_lng": [
+                -71.03574003049545,
+                42.36157188875924
+            ],
+            "speed": 5,
+            "time_login": 36774,
+            "time_logout": 37964
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE115",
+            "courier_lat_lng": [
+                -71.08147287848311,
+                42.38020355019278
+            ],
+            "speed": 5,
+            "time_login": 36786,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE116",
+            "courier_lat_lng": [
+                -71.04654159294033,
+                42.38468916450062
+            ],
+            "speed": 5,
+            "time_login": 36793,
+            "time_logout": 37469
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE117",
+            "courier_lat_lng": [
+                -71.09445740059628,
+                42.37761570752442
+            ],
+            "speed": 5,
+            "time_login": 36801,
+            "time_logout": 38972
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE118",
+            "courier_lat_lng": [
+                -71.0475488965834,
+                42.38625784527519
+            ],
+            "speed": 5,
+            "time_login": 36804,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE119",
+            "courier_lat_lng": [
+                -71.03237815412098,
+                42.38035149395458
+            ],
+            "speed": 5,
+            "time_login": 36826,
+            "time_logout": 36857
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE120",
+            "courier_lat_lng": [
+                -71.0957579460683,
+                42.37325031285232
+            ],
+            "speed": 5,
+            "time_login": 36827,
+            "time_logout": 39330
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE121",
+            "courier_lat_lng": [
+                -71.01984951316905,
+                42.382575588095584
+            ],
+            "speed": 5,
+            "time_login": 36828,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE122",
+            "courier_lat_lng": [
+                -71.0500391832778,
+                42.364330691830965
+            ],
+            "speed": 5,
+            "time_login": 36829,
+            "time_logout": 36856
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE123",
+            "courier_lat_lng": [
+                -71.04605988733444,
+                42.37855290747553
+            ],
+            "speed": 5,
+            "time_login": 36834,
+            "time_logout": 38459
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE124",
+            "courier_lat_lng": [
+                -71.01781839533646,
+                42.37472631136018
+            ],
+            "speed": 5,
+            "time_login": 36836,
+            "time_logout": 37744
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE125",
+            "courier_lat_lng": [
+                -71.02850634330325,
+                42.36880487072174
+            ],
+            "speed": 5,
+            "time_login": 36844,
+            "time_logout": 38358
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE126",
+            "courier_lat_lng": [
+                -71.01897264392261,
+                42.36545610078647
+            ],
+            "speed": 5,
+            "time_login": 36845,
+            "time_logout": 37052
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE127",
+            "courier_lat_lng": [
+                -71.09783827702675,
+                42.37898240638016
+            ],
+            "speed": 5,
+            "time_login": 36846,
+            "time_logout": 37052
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE128",
+            "courier_lat_lng": [
+                -71.02475409866845,
+                42.360257017649175
+            ],
+            "speed": 5,
+            "time_login": 36853,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE129",
+            "courier_lat_lng": [
+                -71.09110088687616,
+                42.38690703415795
+            ],
+            "speed": 5,
+            "time_login": 36854,
+            "time_logout": 38912
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE130",
+            "courier_lat_lng": [
+                -71.07600230456312,
+                42.364010715665536
+            ],
+            "speed": 5,
+            "time_login": 36860,
+            "time_logout": 38685
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE131",
+            "courier_lat_lng": [
+                -71.06085142382084,
+                42.37274764762271
+            ],
+            "speed": 5,
+            "time_login": 36882,
+            "time_logout": 37951
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE132",
+            "courier_lat_lng": [
+                -71.04695287182288,
+                42.36937550633883
+            ],
+            "speed": 5,
+            "time_login": 36885,
+            "time_logout": 37466
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE133",
+            "courier_lat_lng": [
+                -71.07187987439667,
+                42.371752217711204
+            ],
+            "speed": 5,
+            "time_login": 36898,
+            "time_logout": 37213
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE134",
+            "courier_lat_lng": [
+                -71.09782771672148,
+                42.36003072763047
+            ],
+            "speed": 5,
+            "time_login": 36904,
+            "time_logout": 37256
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE135",
+            "courier_lat_lng": [
+                -71.05317098885324,
+                42.380085048722776
+            ],
+            "speed": 5,
+            "time_login": 36910,
+            "time_logout": 37510
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE136",
+            "courier_lat_lng": [
+                -71.03457761066191,
+                42.36029013209782
+            ],
+            "speed": 5,
+            "time_login": 36920,
+            "time_logout": 39248
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE137",
+            "courier_lat_lng": [
+                -71.01434971774646,
+                42.36551346690536
+            ],
+            "speed": 5,
+            "time_login": 36924,
+            "time_logout": 39368
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE138",
+            "courier_lat_lng": [
+                -71.07835492945513,
+                42.37766434344532
+            ],
+            "speed": 5,
+            "time_login": 36954,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE139",
+            "courier_lat_lng": [
+                -71.0247278311883,
+                42.36745699191399
+            ],
+            "speed": 5,
+            "time_login": 36983,
+            "time_logout": 39278
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE140",
+            "courier_lat_lng": [
+                -71.0637976399537,
+                42.361978754253535
+            ],
+            "speed": 5,
+            "time_login": 36986,
+            "time_logout": 37515
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE141",
+            "courier_lat_lng": [
+                -71.05417728214634,
+                42.379895335626884
+            ],
+            "speed": 5,
+            "time_login": 36994,
+            "time_logout": 37364
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE142",
+            "courier_lat_lng": [
+                -71.09180657706185,
+                42.37815704118726
+            ],
+            "speed": 5,
+            "time_login": 37005,
+            "time_logout": 37052
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE143",
+            "courier_lat_lng": [
+                -71.08461428814203,
+                42.3623733443009
+            ],
+            "speed": 5,
+            "time_login": 37008,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE144",
+            "courier_lat_lng": [
+                -71.05361615240469,
+                42.36951196876253
+            ],
+            "speed": 5,
+            "time_login": 37009,
+            "time_logout": 37529
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE145",
+            "courier_lat_lng": [
+                -71.066565122029,
+                42.37254458940012
+            ],
+            "speed": 5,
+            "time_login": 37010,
+            "time_logout": 37406
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE146",
+            "courier_lat_lng": [
+                -71.06192756113259,
+                42.38451161244615
+            ],
+            "speed": 5,
+            "time_login": 37011,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE147",
+            "courier_lat_lng": [
+                -71.0783971326062,
+                42.36811275018515
+            ],
+            "speed": 5,
+            "time_login": 37018,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE148",
+            "courier_lat_lng": [
+                -71.04758837142033,
+                42.37796960911842
+            ],
+            "speed": 5,
+            "time_login": 37024,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE149",
+            "courier_lat_lng": [
+                -71.08311094865847,
+                42.36980911806667
+            ],
+            "speed": 5,
+            "time_login": 37026,
+            "time_logout": 37636
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE150",
+            "courier_lat_lng": [
+                -71.02142367985171,
+                42.38104185515392
+            ],
+            "speed": 5,
+            "time_login": 37027,
+            "time_logout": 37311
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE151",
+            "courier_lat_lng": [
+                -71.07078835690433,
+                42.361671948883455
+            ],
+            "speed": 5,
+            "time_login": 37033,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE152",
+            "courier_lat_lng": [
+                -71.04128850879167,
+                42.37464911896674
+            ],
+            "speed": 5,
+            "time_login": 37044,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE153",
+            "courier_lat_lng": [
+                -71.07742131399766,
+                42.38023421019028
+            ],
+            "speed": 5,
+            "time_login": 37051,
+            "time_logout": 38648
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE154",
+            "courier_lat_lng": [
+                -71.06474224342989,
+                42.38636665824194
+            ],
+            "speed": 5,
+            "time_login": 37051,
+            "time_logout": 38919
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE155",
+            "courier_lat_lng": [
+                -71.03253437798917,
+                42.36322864682337
+            ],
+            "speed": 5,
+            "time_login": 37061,
+            "time_logout": 38418
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE156",
+            "courier_lat_lng": [
+                -71.0318497529616,
+                42.38697541833577
+            ],
+            "speed": 5,
+            "time_login": 37067,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE157",
+            "courier_lat_lng": [
+                -71.02161186588617,
+                42.38557076382592
+            ],
+            "speed": 5,
+            "time_login": 37068,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE158",
+            "courier_lat_lng": [
+                -71.06475817615947,
+                42.371439084956336
+            ],
+            "speed": 5,
+            "time_login": 37069,
+            "time_logout": 39217
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE159",
+            "courier_lat_lng": [
+                -71.07895167616707,
+                42.37909288836511
+            ],
+            "speed": 5,
+            "time_login": 37070,
+            "time_logout": 37636
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE160",
+            "courier_lat_lng": [
+                -71.01970693771088,
+                42.368450058881976
+            ],
+            "speed": 5,
+            "time_login": 37071,
+            "time_logout": 38132
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE161",
+            "courier_lat_lng": [
+                -71.09404873660633,
+                42.37503473051035
+            ],
+            "speed": 5,
+            "time_login": 37081,
+            "time_logout": 37192
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE162",
+            "courier_lat_lng": [
+                -71.09814955777452,
+                42.381115780580444
+            ],
+            "speed": 5,
+            "time_login": 37087,
+            "time_logout": 39330
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE163",
+            "courier_lat_lng": [
+                -71.06745081449724,
+                42.37992424054184
+            ],
+            "speed": 5,
+            "time_login": 37092,
+            "time_logout": 39299
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE164",
+            "courier_lat_lng": [
+                -71.08930780267352,
+                42.37257331165153
+            ],
+            "speed": 5,
+            "time_login": 37103,
+            "time_logout": 39177
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE165",
+            "courier_lat_lng": [
+                -71.01626857080385,
+                42.36987000538906
+            ],
+            "speed": 5,
+            "time_login": 37104,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE166",
+            "courier_lat_lng": [
+                -71.09565849953655,
+                42.38376403780862
+            ],
+            "speed": 5,
+            "time_login": 37109,
+            "time_logout": 37364
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE167",
+            "courier_lat_lng": [
+                -71.02021373168388,
+                42.362868382564415
+            ],
+            "speed": 5,
+            "time_login": 37114,
+            "time_logout": 37673
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE168",
+            "courier_lat_lng": [
+                -71.01604152710264,
+                42.37333585285323
+            ],
+            "speed": 5,
+            "time_login": 37142,
+            "time_logout": 37329
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE169",
+            "courier_lat_lng": [
+                -71.06140026808758,
+                42.367877892407634
+            ],
+            "speed": 5,
+            "time_login": 37143,
+            "time_logout": 37271
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE170",
+            "courier_lat_lng": [
+                -71.0633595033072,
+                42.36703482437576
+            ],
+            "speed": 5,
+            "time_login": 37152,
+            "time_logout": 37526
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE171",
+            "courier_lat_lng": [
+                -71.07410910217133,
+                42.38637864401485
+            ],
+            "speed": 5,
+            "time_login": 37170,
+            "time_logout": 38235
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE172",
+            "courier_lat_lng": [
+                -71.0746509626387,
+                42.36411174312673
+            ],
+            "speed": 5,
+            "time_login": 37183,
+            "time_logout": 38326
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE173",
+            "courier_lat_lng": [
+                -71.03292699120048,
+                42.360857082659486
+            ],
+            "speed": 5,
+            "time_login": 37191,
+            "time_logout": 37888
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE174",
+            "courier_lat_lng": [
+                -71.091474984152,
+                42.37197806630696
+            ],
+            "speed": 5,
+            "time_login": 37191,
+            "time_logout": 38540
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE175",
+            "courier_lat_lng": [
+                -71.06016265657652,
+                42.37015071929313
+            ],
+            "speed": 5,
+            "time_login": 37192,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE176",
+            "courier_lat_lng": [
+                -71.0153600229119,
+                42.386306760200604
+            ],
+            "speed": 5,
+            "time_login": 37193,
+            "time_logout": 38956
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE177",
+            "courier_lat_lng": [
+                -71.04609184554704,
+                42.37050174026462
+            ],
+            "speed": 5,
+            "time_login": 37204,
+            "time_logout": 38077
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE178",
+            "courier_lat_lng": [
+                -71.04739752966749,
+                42.38486848080128
+            ],
+            "speed": 5,
+            "time_login": 37210,
+            "time_logout": 37270
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE179",
+            "courier_lat_lng": [
+                -71.01498294386809,
+                42.37962658215425
+            ],
+            "speed": 5,
+            "time_login": 37210,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE180",
+            "courier_lat_lng": [
+                -71.09496920494774,
+                42.38126975139936
+            ],
+            "speed": 5,
+            "time_login": 37214,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE181",
+            "courier_lat_lng": [
+                -71.05154604509521,
+                42.360101122513306
+            ],
+            "speed": 5,
+            "time_login": 37215,
+            "time_logout": 38827
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE182",
+            "courier_lat_lng": [
+                -71.03086643306091,
+                42.366918618940566
+            ],
+            "speed": 5,
+            "time_login": 37221,
+            "time_logout": 38996
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE183",
+            "courier_lat_lng": [
+                -71.06149556241898,
+                42.3788862351502
+            ],
+            "speed": 5,
+            "time_login": 37231,
+            "time_logout": 37624
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE184",
+            "courier_lat_lng": [
+                -71.07565022008365,
+                42.37861033640248
+            ],
+            "speed": 5,
+            "time_login": 37232,
+            "time_logout": 37466
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE185",
+            "courier_lat_lng": [
+                -71.02110990087832,
+                42.381209693816196
+            ],
+            "speed": 5,
+            "time_login": 37232,
+            "time_logout": 37466
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE186",
+            "courier_lat_lng": [
+                -71.0903969570338,
+                42.364730069834295
+            ],
+            "speed": 5,
+            "time_login": 37233,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE187",
+            "courier_lat_lng": [
+                -71.0805533769159,
+                42.36182142149865
+            ],
+            "speed": 5,
+            "time_login": 37235,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE188",
+            "courier_lat_lng": [
+                -71.0917007235706,
+                42.369890203330975
+            ],
+            "speed": 5,
+            "time_login": 37237,
+            "time_logout": 37841
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE189",
+            "courier_lat_lng": [
+                -71.07331432938713,
+                42.38152344417468
+            ],
+            "speed": 5,
+            "time_login": 37253,
+            "time_logout": 38253
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE190",
+            "courier_lat_lng": [
+                -71.08614761970853,
+                42.37288801841504
+            ],
+            "speed": 5,
+            "time_login": 37254,
+            "time_logout": 39554
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE191",
+            "courier_lat_lng": [
+                -71.05433722473961,
+                42.36146298646586
+            ],
+            "speed": 5,
+            "time_login": 37254,
+            "time_logout": 39523
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE192",
+            "courier_lat_lng": [
+                -71.02095071194842,
+                42.37502295614674
+            ],
+            "speed": 5,
+            "time_login": 37262,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE193",
+            "courier_lat_lng": [
+                -71.0295006506149,
+                42.387720715720306
+            ],
+            "speed": 5,
+            "time_login": 37276,
+            "time_logout": 39138
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE194",
+            "courier_lat_lng": [
+                -71.04918943914318,
+                42.38406318915377
+            ],
+            "speed": 5,
+            "time_login": 37310,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE195",
+            "courier_lat_lng": [
+                -71.05682377993887,
+                42.366214346703686
+            ],
+            "speed": 5,
+            "time_login": 37314,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE196",
+            "courier_lat_lng": [
+                -71.02031360110286,
+                42.36873107910405
+            ],
+            "speed": 5,
+            "time_login": 37320,
+            "time_logout": 37669
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE197",
+            "courier_lat_lng": [
+                -71.05523322066844,
+                42.367974812728924
+            ],
+            "speed": 5,
+            "time_login": 37351,
+            "time_logout": 37924
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE198",
+            "courier_lat_lng": [
+                -71.05756283606479,
+                42.37541983619133
+            ],
+            "speed": 5,
+            "time_login": 37366,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE199",
+            "courier_lat_lng": [
+                -71.04865746157809,
+                42.36821982303661
+            ],
+            "speed": 5,
+            "time_login": 37374,
+            "time_logout": 39343
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE200",
+            "courier_lat_lng": [
+                -71.05741721207892,
+                42.36968722333124
+            ],
+            "speed": 5,
+            "time_login": 37375,
+            "time_logout": 38418
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE201",
+            "courier_lat_lng": [
+                -71.09574268857246,
+                42.36579585353444
+            ],
+            "speed": 5,
+            "time_login": 37385,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE202",
+            "courier_lat_lng": [
+                -71.02615420778542,
+                42.377481600654775
+            ],
+            "speed": 5,
+            "time_login": 37417,
+            "time_logout": 39486
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE203",
+            "courier_lat_lng": [
+                -71.09661862488107,
+                42.381975880417016
+            ],
+            "speed": 5,
+            "time_login": 37428,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE204",
+            "courier_lat_lng": [
+                -71.02047952660547,
+                42.3745471365102
+            ],
+            "speed": 5,
+            "time_login": 37429,
+            "time_logout": 39468
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE205",
+            "courier_lat_lng": [
+                -71.02610480454146,
+                42.37717749282106
+            ],
+            "speed": 5,
+            "time_login": 37438,
+            "time_logout": 37631
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE206",
+            "courier_lat_lng": [
+                -71.08232946994968,
+                42.37855077320815
+            ],
+            "speed": 5,
+            "time_login": 37447,
+            "time_logout": 37957
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE207",
+            "courier_lat_lng": [
+                -71.06635047670014,
+                42.375541548030476
+            ],
+            "speed": 5,
+            "time_login": 37447,
+            "time_logout": 39554
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE208",
+            "courier_lat_lng": [
+                -71.03086322377263,
+                42.38160493892593
+            ],
+            "speed": 5,
+            "time_login": 37452,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE209",
+            "courier_lat_lng": [
+                -71.09744867224697,
+                42.36159437780684
+            ],
+            "speed": 5,
+            "time_login": 37456,
+            "time_logout": 38675
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE210",
+            "courier_lat_lng": [
+                -71.07990634849585,
+                42.36461454106058
+            ],
+            "speed": 5,
+            "time_login": 37457,
+            "time_logout": 39224
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE211",
+            "courier_lat_lng": [
+                -71.04470178052642,
+                42.3687659797223
+            ],
+            "speed": 5,
+            "time_login": 37464,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE212",
+            "courier_lat_lng": [
+                -71.09032372841676,
+                42.383016247978865
+            ],
+            "speed": 5,
+            "time_login": 37481,
+            "time_logout": 38891
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE213",
+            "courier_lat_lng": [
+                -71.07355013424944,
+                42.36641135381269
+            ],
+            "speed": 5,
+            "time_login": 37485,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE214",
+            "courier_lat_lng": [
+                -71.06140345760173,
+                42.365760768003284
+            ],
+            "speed": 5,
+            "time_login": 37490,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE215",
+            "courier_lat_lng": [
+                -71.02502942344192,
+                42.37126289392044
+            ],
+            "speed": 5,
+            "time_login": 37500,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE216",
+            "courier_lat_lng": [
+                -71.08217698633746,
+                42.38518304301276
+            ],
+            "speed": 5,
+            "time_login": 37507,
+            "time_logout": 37790
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE217",
+            "courier_lat_lng": [
+                -71.07786316962051,
+                42.36860213931128
+            ],
+            "speed": 5,
+            "time_login": 37514,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE218",
+            "courier_lat_lng": [
+                -71.09235588231046,
+                42.37838164340385
+            ],
+            "speed": 5,
+            "time_login": 37518,
+            "time_logout": 39486
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE219",
+            "courier_lat_lng": [
+                -71.06237553370993,
+                42.381978358116186
+            ],
+            "speed": 5,
+            "time_login": 37535,
+            "time_logout": 37636
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE220",
+            "courier_lat_lng": [
+                -71.02349567932015,
+                42.362392862501636
+            ],
+            "speed": 5,
+            "time_login": 37537,
+            "time_logout": 38021
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE221",
+            "courier_lat_lng": [
+                -71.0207002668723,
+                42.37327462192231
+            ],
+            "speed": 5,
+            "time_login": 37538,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE222",
+            "courier_lat_lng": [
+                -71.07510638732829,
+                42.371247094961
+            ],
+            "speed": 5,
+            "time_login": 37567,
+            "time_logout": 37773
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE223",
+            "courier_lat_lng": [
+                -71.04431016857029,
+                42.36083928298057
+            ],
+            "speed": 5,
+            "time_login": 37569,
+            "time_logout": 37744
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE224",
+            "courier_lat_lng": [
+                -71.01789496824354,
+                42.36215412409096
+            ],
+            "speed": 5,
+            "time_login": 37570,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE225",
+            "courier_lat_lng": [
+                -71.02242882641073,
+                42.37598172781046
+            ],
+            "speed": 5,
+            "time_login": 37577,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE226",
+            "courier_lat_lng": [
+                -71.0627404763605,
+                42.38080601785026
+            ],
+            "speed": 5,
+            "time_login": 37577,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE227",
+            "courier_lat_lng": [
+                -71.01946052743223,
+                42.38253589776497
+            ],
+            "speed": 5,
+            "time_login": 37585,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE228",
+            "courier_lat_lng": [
+                -71.03089642123422,
+                42.37085349646563
+            ],
+            "speed": 5,
+            "time_login": 37595,
+            "time_logout": 39373
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE229",
+            "courier_lat_lng": [
+                -71.046850740495,
+                42.370330872119006
+            ],
+            "speed": 5,
+            "time_login": 37599,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE230",
+            "courier_lat_lng": [
+                -71.03678176834353,
+                42.37343713982474
+            ],
+            "speed": 5,
+            "time_login": 37600,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE231",
+            "courier_lat_lng": [
+                -71.05549082107412,
+                42.382319542876395
+            ],
+            "speed": 5,
+            "time_login": 37623,
+            "time_logout": 38040
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE232",
+            "courier_lat_lng": [
+                -71.05393573390123,
+                42.37667297870287
+            ],
+            "speed": 5,
+            "time_login": 37630,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE233",
+            "courier_lat_lng": [
+                -71.0679324174756,
+                42.36300021960379
+            ],
+            "speed": 5,
+            "time_login": 37633,
+            "time_logout": 39343
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE234",
+            "courier_lat_lng": [
+                -71.02733826885326,
+                42.37447961078178
+            ],
+            "speed": 5,
+            "time_login": 37636,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE235",
+            "courier_lat_lng": [
+                -71.06402312533837,
+                42.38700258004532
+            ],
+            "speed": 5,
+            "time_login": 37637,
+            "time_logout": 39138
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE236",
+            "courier_lat_lng": [
+                -71.07235423514877,
+                42.363987195076696
+            ],
+            "speed": 5,
+            "time_login": 37638,
+            "time_logout": 39338
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE237",
+            "courier_lat_lng": [
+                -71.04242071437258,
+                42.365682200431635
+            ],
+            "speed": 5,
+            "time_login": 37638,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE238",
+            "courier_lat_lng": [
+                -71.07373917384834,
+                42.37093745117197
+            ],
+            "speed": 5,
+            "time_login": 37654,
+            "time_logout": 38845
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE239",
+            "courier_lat_lng": [
+                -71.0374712272369,
+                42.369732750118004
+            ],
+            "speed": 5,
+            "time_login": 37664,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE240",
+            "courier_lat_lng": [
+                -71.07665396894437,
+                42.36284091284359
+            ],
+            "speed": 5,
+            "time_login": 37669,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE241",
+            "courier_lat_lng": [
+                -71.02465581904202,
+                42.377128053951054
+            ],
+            "speed": 5,
+            "time_login": 37701,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE242",
+            "courier_lat_lng": [
+                -71.01965593179423,
+                42.384950134572115
+            ],
+            "speed": 5,
+            "time_login": 37706,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE243",
+            "courier_lat_lng": [
+                -71.0971961398282,
+                42.37364269713173
+            ],
+            "speed": 5,
+            "time_login": 37710,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE244",
+            "courier_lat_lng": [
+                -71.03541885381934,
+                42.38571318053237
+            ],
+            "speed": 5,
+            "time_login": 37733,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE245",
+            "courier_lat_lng": [
+                -71.03135237213782,
+                42.37316438912426
+            ],
+            "speed": 5,
+            "time_login": 37733,
+            "time_logout": 39478
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE246",
+            "courier_lat_lng": [
+                -71.01909721118538,
+                42.370617863865775
+            ],
+            "speed": 5,
+            "time_login": 37740,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE247",
+            "courier_lat_lng": [
+                -71.02513343586203,
+                42.36572169568417
+            ],
+            "speed": 5,
+            "time_login": 37741,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE248",
+            "courier_lat_lng": [
+                -71.06571267438107,
+                42.36271117681893
+            ],
+            "speed": 5,
+            "time_login": 37743,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE249",
+            "courier_lat_lng": [
+                -71.01442643357193,
+                42.380024136988226
+            ],
+            "speed": 5,
+            "time_login": 37746,
+            "time_logout": 39023
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE250",
+            "courier_lat_lng": [
+                -71.06782751067713,
+                42.38220497775535
+            ],
+            "speed": 5,
+            "time_login": 37755,
+            "time_logout": 37941
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE251",
+            "courier_lat_lng": [
+                -71.05265622995176,
+                42.37124573260866
+            ],
+            "speed": 5,
+            "time_login": 37763,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE252",
+            "courier_lat_lng": [
+                -71.09194443327829,
+                42.37464438952625
+            ],
+            "speed": 5,
+            "time_login": 37785,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE253",
+            "courier_lat_lng": [
+                -71.04976806962134,
+                42.367354045015695
+            ],
+            "speed": 5,
+            "time_login": 37835,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE254",
+            "courier_lat_lng": [
+                -71.06719600192375,
+                42.379359351974294
+            ],
+            "speed": 5,
+            "time_login": 37850,
+            "time_logout": 38418
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE255",
+            "courier_lat_lng": [
+                -71.05887472756652,
+                42.362272469300116
+            ],
+            "speed": 5,
+            "time_login": 37850,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE256",
+            "courier_lat_lng": [
+                -71.08786396335533,
+                42.37144236481959
+            ],
+            "speed": 5,
+            "time_login": 37853,
+            "time_logout": 39326
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE257",
+            "courier_lat_lng": [
+                -71.07244611196911,
+                42.37587803815146
+            ],
+            "speed": 5,
+            "time_login": 37856,
+            "time_logout": 38021
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE258",
+            "courier_lat_lng": [
+                -71.0999592785646,
+                42.378011635232504
+            ],
+            "speed": 5,
+            "time_login": 37862,
+            "time_logout": 37964
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE259",
+            "courier_lat_lng": [
+                -71.06078068296162,
+                42.38673478352385
+            ],
+            "speed": 5,
+            "time_login": 37868,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE260",
+            "courier_lat_lng": [
+                -71.09263553349169,
+                42.36640710782134
+            ],
+            "speed": 5,
+            "time_login": 37872,
+            "time_logout": 38674
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE261",
+            "courier_lat_lng": [
+                -71.01465233820056,
+                42.38070991803498
+            ],
+            "speed": 5,
+            "time_login": 37886,
+            "time_logout": 39468
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE262",
+            "courier_lat_lng": [
+                -71.07998062095557,
+                42.377990998745204
+            ],
+            "speed": 5,
+            "time_login": 37891,
+            "time_logout": 38761
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE263",
+            "courier_lat_lng": [
+                -71.06266293794239,
+                42.37979149457035
+            ],
+            "speed": 5,
+            "time_login": 37898,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE264",
+            "courier_lat_lng": [
+                -71.05807378079982,
+                42.38241119166686
+            ],
+            "speed": 5,
+            "time_login": 37909,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE265",
+            "courier_lat_lng": [
+                -71.09581963487582,
+                42.37776396023077
+            ],
+            "speed": 5,
+            "time_login": 37911,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE266",
+            "courier_lat_lng": [
+                -71.08888028248754,
+                42.372675036132414
+            ],
+            "speed": 5,
+            "time_login": 37912,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE267",
+            "courier_lat_lng": [
+                -71.07436517222519,
+                42.38581666890295
+            ],
+            "speed": 5,
+            "time_login": 37923,
+            "time_logout": 38445
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE268",
+            "courier_lat_lng": [
+                -71.01585301730793,
+                42.38504998145276
+            ],
+            "speed": 5,
+            "time_login": 37941,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE269",
+            "courier_lat_lng": [
+                -71.09130525692694,
+                42.3854594710068
+            ],
+            "speed": 5,
+            "time_login": 37948,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE270",
+            "courier_lat_lng": [
+                -71.0196529714386,
+                42.382542716908056
+            ],
+            "speed": 5,
+            "time_login": 37958,
+            "time_logout": 38626
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE271",
+            "courier_lat_lng": [
+                -71.08241503536941,
+                42.37878199344914
+            ],
+            "speed": 5,
+            "time_login": 37976,
+            "time_logout": 39397
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE272",
+            "courier_lat_lng": [
+                -71.03428129850391,
+                42.37399668598393
+            ],
+            "speed": 5,
+            "time_login": 37991,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE273",
+            "courier_lat_lng": [
+                -71.05066893769096,
+                42.361106249482475
+            ],
+            "speed": 5,
+            "time_login": 37993,
+            "time_logout": 39168
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE274",
+            "courier_lat_lng": [
+                -71.02896772482808,
+                42.382137580292586
+            ],
+            "speed": 5,
+            "time_login": 37997,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE275",
+            "courier_lat_lng": [
+                -71.01849813437299,
+                42.378808154641575
+            ],
+            "speed": 5,
+            "time_login": 37998,
+            "time_logout": 39401
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE276",
+            "courier_lat_lng": [
+                -71.02584267398389,
+                42.361622454869256
+            ],
+            "speed": 5,
+            "time_login": 38002,
+            "time_logout": 38519
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE277",
+            "courier_lat_lng": [
+                -71.0827100075043,
+                42.36568389472904
+            ],
+            "speed": 5,
+            "time_login": 38004,
+            "time_logout": 39111
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE278",
+            "courier_lat_lng": [
+                -71.06944629030916,
+                42.37539592860001
+            ],
+            "speed": 5,
+            "time_login": 38005,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE279",
+            "courier_lat_lng": [
+                -71.02858444245419,
+                42.36698386816942
+            ],
+            "speed": 5,
+            "time_login": 38010,
+            "time_logout": 38070
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE280",
+            "courier_lat_lng": [
+                -71.06518215022608,
+                42.37488644239937
+            ],
+            "speed": 5,
+            "time_login": 38013,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE281",
+            "courier_lat_lng": [
+                -71.02517067690957,
+                42.36902093898678
+            ],
+            "speed": 5,
+            "time_login": 38016,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE282",
+            "courier_lat_lng": [
+                -71.06391144789313,
+                42.38050853042717
+            ],
+            "speed": 5,
+            "time_login": 38016,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE283",
+            "courier_lat_lng": [
+                -71.01679750911693,
+                42.377106827815936
+            ],
+            "speed": 5,
+            "time_login": 38019,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE284",
+            "courier_lat_lng": [
+                -71.06818842809929,
+                42.375189890964066
+            ],
+            "speed": 5,
+            "time_login": 38024,
+            "time_logout": 38948
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE285",
+            "courier_lat_lng": [
+                -71.03548894493994,
+                42.38574476435837
+            ],
+            "speed": 5,
+            "time_login": 38032,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE286",
+            "courier_lat_lng": [
+                -71.08396858638203,
+                42.37581057654205
+            ],
+            "speed": 5,
+            "time_login": 38034,
+            "time_logout": 38984
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE287",
+            "courier_lat_lng": [
+                -71.0692832493991,
+                42.38102621927545
+            ],
+            "speed": 5,
+            "time_login": 38053,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE288",
+            "courier_lat_lng": [
+                -71.08806998725325,
+                42.3770400177205
+            ],
+            "speed": 5,
+            "time_login": 38063,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE289",
+            "courier_lat_lng": [
+                -71.0395723680815,
+                42.36953816306316
+            ],
+            "speed": 5,
+            "time_login": 38076,
+            "time_logout": 38307
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE290",
+            "courier_lat_lng": [
+                -71.09713277748827,
+                42.38500274573332
+            ],
+            "speed": 5,
+            "time_login": 38084,
+            "time_logout": 38518
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE291",
+            "courier_lat_lng": [
+                -71.06427718766763,
+                42.363684300569965
+            ],
+            "speed": 5,
+            "time_login": 38086,
+            "time_logout": 38199
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE292",
+            "courier_lat_lng": [
+                -71.04319638984488,
+                42.37627746213526
+            ],
+            "speed": 5,
+            "time_login": 38102,
+            "time_logout": 38958
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE293",
+            "courier_lat_lng": [
+                -71.04071148064644,
+                42.38447608191638
+            ],
+            "speed": 5,
+            "time_login": 38110,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE294",
+            "courier_lat_lng": [
+                -71.05388872518888,
+                42.38026930284028
+            ],
+            "speed": 5,
+            "time_login": 38122,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE295",
+            "courier_lat_lng": [
+                -71.02923408246127,
+                42.3679089693102
+            ],
+            "speed": 5,
+            "time_login": 38150,
+            "time_logout": 39099
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE296",
+            "courier_lat_lng": [
+                -71.08022146145558,
+                42.3777697862
+            ],
+            "speed": 5,
+            "time_login": 38160,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE297",
+            "courier_lat_lng": [
+                -71.07575899309464,
+                42.3609123701981
+            ],
+            "speed": 5,
+            "time_login": 38172,
+            "time_logout": 38519
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE298",
+            "courier_lat_lng": [
+                -71.07589722082977,
+                42.37360426270241
+            ],
+            "speed": 5,
+            "time_login": 38175,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE299",
+            "courier_lat_lng": [
+                -71.0835826455537,
+                42.36163831499004
+            ],
+            "speed": 5,
+            "time_login": 38179,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE300",
+            "courier_lat_lng": [
+                -71.09286207711102,
+                42.36533949766595
+            ],
+            "speed": 5,
+            "time_login": 38182,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE301",
+            "courier_lat_lng": [
+                -71.03497742859155,
+                42.38526670193598
+            ],
+            "speed": 5,
+            "time_login": 38197,
+            "time_logout": 38895
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE302",
+            "courier_lat_lng": [
+                -71.07223164197896,
+                42.36266027794975
+            ],
+            "speed": 5,
+            "time_login": 38202,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE303",
+            "courier_lat_lng": [
+                -71.01822712102062,
+                42.36796364103928
+            ],
+            "speed": 5,
+            "time_login": 38204,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE304",
+            "courier_lat_lng": [
+                -71.01928740188274,
+                42.376573416107256
+            ],
+            "speed": 5,
+            "time_login": 38207,
+            "time_logout": 38773
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE305",
+            "courier_lat_lng": [
+                -71.06631920350344,
+                42.37477030139477
+            ],
+            "speed": 5,
+            "time_login": 38208,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE306",
+            "courier_lat_lng": [
+                -71.02188133672041,
+                42.37895242472759
+            ],
+            "speed": 5,
+            "time_login": 38210,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE307",
+            "courier_lat_lng": [
+                -71.06362899138904,
+                42.36220641459128
+            ],
+            "speed": 5,
+            "time_login": 38213,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE308",
+            "courier_lat_lng": [
+                -71.05498599333711,
+                42.36921067845146
+            ],
+            "speed": 5,
+            "time_login": 38215,
+            "time_logout": 38458
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE309",
+            "courier_lat_lng": [
+                -71.03113574118736,
+                42.36974057074891
+            ],
+            "speed": 5,
+            "time_login": 38219,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE310",
+            "courier_lat_lng": [
+                -71.04407709818956,
+                42.386312679989274
+            ],
+            "speed": 5,
+            "time_login": 38222,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE311",
+            "courier_lat_lng": [
+                -71.0163639801969,
+                42.36565521173193
+            ],
+            "speed": 5,
+            "time_login": 38229,
+            "time_logout": 39031
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE312",
+            "courier_lat_lng": [
+                -71.03762823780443,
+                42.36903108817076
+            ],
+            "speed": 5,
+            "time_login": 38232,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE313",
+            "courier_lat_lng": [
+                -71.08282834581898,
+                42.377631547239815
+            ],
+            "speed": 5,
+            "time_login": 38232,
+            "time_logout": 38726
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE314",
+            "courier_lat_lng": [
+                -71.0204449428406,
+                42.3675394900539
+            ],
+            "speed": 5,
+            "time_login": 38233,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE315",
+            "courier_lat_lng": [
+                -71.08396021300918,
+                42.36538115623802
+            ],
+            "speed": 5,
+            "time_login": 38234,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE316",
+            "courier_lat_lng": [
+                -71.05480566446022,
+                42.38581022912688
+            ],
+            "speed": 5,
+            "time_login": 38241,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE317",
+            "courier_lat_lng": [
+                -71.0190930857611,
+                42.384550766520704
+            ],
+            "speed": 5,
+            "time_login": 38251,
+            "time_logout": 39272
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE318",
+            "courier_lat_lng": [
+                -71.03625012398464,
+                42.37776841610459
+            ],
+            "speed": 5,
+            "time_login": 38265,
+            "time_logout": 39506
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE319",
+            "courier_lat_lng": [
+                -71.03067279469191,
+                42.37578349417989
+            ],
+            "speed": 5,
+            "time_login": 38270,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE320",
+            "courier_lat_lng": [
+                -71.05858273904263,
+                42.36021282024953
+            ],
+            "speed": 5,
+            "time_login": 38290,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE321",
+            "courier_lat_lng": [
+                -71.06661040658594,
+                42.386117988741404
+            ],
+            "speed": 5,
+            "time_login": 38301,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE322",
+            "courier_lat_lng": [
+                -71.02243337451792,
+                42.38770216100517
+            ],
+            "speed": 5,
+            "time_login": 38305,
+            "time_logout": 39554
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE323",
+            "courier_lat_lng": [
+                -71.05926010081686,
+                42.362251570868004
+            ],
+            "speed": 5,
+            "time_login": 38306,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE324",
+            "courier_lat_lng": [
+                -71.09052062347668,
+                42.364735856684966
+            ],
+            "speed": 5,
+            "time_login": 38316,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE325",
+            "courier_lat_lng": [
+                -71.01856340681708,
+                42.382309485428024
+            ],
+            "speed": 5,
+            "time_login": 38318,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE326",
+            "courier_lat_lng": [
+                -71.03210547732516,
+                42.38597083743825
+            ],
+            "speed": 5,
+            "time_login": 38318,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE327",
+            "courier_lat_lng": [
+                -71.03860763473779,
+                42.37821088114669
+            ],
+            "speed": 5,
+            "time_login": 38336,
+            "time_logout": 38521
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE328",
+            "courier_lat_lng": [
+                -71.03761789851413,
+                42.3864125581061
+            ],
+            "speed": 5,
+            "time_login": 38345,
+            "time_logout": 38540
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE329",
+            "courier_lat_lng": [
+                -71.07040485241437,
+                42.37879969542921
+            ],
+            "speed": 5,
+            "time_login": 38354,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE330",
+            "courier_lat_lng": [
+                -71.02960001434366,
+                42.374982621201816
+            ],
+            "speed": 5,
+            "time_login": 38357,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE331",
+            "courier_lat_lng": [
+                -71.01751996122722,
+                42.3677519676933
+            ],
+            "speed": 5,
+            "time_login": 38365,
+            "time_logout": 39396
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE332",
+            "courier_lat_lng": [
+                -71.0880203104938,
+                42.36577544942787
+            ],
+            "speed": 5,
+            "time_login": 38379,
+            "time_logout": 38891
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE333",
+            "courier_lat_lng": [
+                -71.02459466315132,
+                42.38567751009088
+            ],
+            "speed": 5,
+            "time_login": 38384,
+            "time_logout": 39523
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE334",
+            "courier_lat_lng": [
+                -71.03896760787704,
+                42.3864190932061
+            ],
+            "speed": 5,
+            "time_login": 38392,
+            "time_logout": 38798
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE335",
+            "courier_lat_lng": [
+                -71.07648833227478,
+                42.373853316950125
+            ],
+            "speed": 5,
+            "time_login": 38397,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE336",
+            "courier_lat_lng": [
+                -71.0425538640055,
+                42.374029563153414
+            ],
+            "speed": 5,
+            "time_login": 38399,
+            "time_logout": 38626
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE337",
+            "courier_lat_lng": [
+                -71.01948963246768,
+                42.37300477115555
+            ],
+            "speed": 5,
+            "time_login": 38402,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE338",
+            "courier_lat_lng": [
+                -71.06783213085907,
+                42.36231670952341
+            ],
+            "speed": 5,
+            "time_login": 38413,
+            "time_logout": 39138
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE339",
+            "courier_lat_lng": [
+                -71.0241159302076,
+                42.36191167124606
+            ],
+            "speed": 5,
+            "time_login": 38428,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE340",
+            "courier_lat_lng": [
+                -71.03370919313336,
+                42.366503247832114
+            ],
+            "speed": 5,
+            "time_login": 38441,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE341",
+            "courier_lat_lng": [
+                -71.05630419689676,
+                42.37274382873712
+            ],
+            "speed": 5,
+            "time_login": 38449,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE342",
+            "courier_lat_lng": [
+                -71.09354579039586,
+                42.36925437716365
+            ],
+            "speed": 5,
+            "time_login": 38451,
+            "time_logout": 38517
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE343",
+            "courier_lat_lng": [
+                -71.03521095190705,
+                42.360046627738356
+            ],
+            "speed": 5,
+            "time_login": 38461,
+            "time_logout": 39506
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE344",
+            "courier_lat_lng": [
+                -71.09271573521565,
+                42.379315885762416
+            ],
+            "speed": 5,
+            "time_login": 38462,
+            "time_logout": 39468
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE345",
+            "courier_lat_lng": [
+                -71.0744909188206,
+                42.37452052345541
+            ],
+            "speed": 5,
+            "time_login": 38463,
+            "time_logout": 39088
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE346",
+            "courier_lat_lng": [
+                -71.05346813683181,
+                42.3661338620728
+            ],
+            "speed": 5,
+            "time_login": 38470,
+            "time_logout": 39410
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE347",
+            "courier_lat_lng": [
+                -71.02526859282256,
+                42.36247529054137
+            ],
+            "speed": 5,
+            "time_login": 38472,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE348",
+            "courier_lat_lng": [
+                -71.05106744923695,
+                42.364406081866726
+            ],
+            "speed": 5,
+            "time_login": 38473,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE349",
+            "courier_lat_lng": [
+                -71.03686790911908,
+                42.37321562365817
+            ],
+            "speed": 5,
+            "time_login": 38480,
+            "time_logout": 39366
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE350",
+            "courier_lat_lng": [
+                -71.08798364996979,
+                42.36502264915298
+            ],
+            "speed": 5,
+            "time_login": 38481,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE351",
+            "courier_lat_lng": [
+                -71.09291739667563,
+                42.377022547981525
+            ],
+            "speed": 5,
+            "time_login": 38489,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE352",
+            "courier_lat_lng": [
+                -71.09355538768693,
+                42.361766019081216
+            ],
+            "speed": 5,
+            "time_login": 38490,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE353",
+            "courier_lat_lng": [
+                -71.07217759044484,
+                42.371323553452484
+            ],
+            "speed": 5,
+            "time_login": 38493,
+            "time_logout": 38986
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE354",
+            "courier_lat_lng": [
+                -71.09753354254072,
+                42.36410190642416
+            ],
+            "speed": 5,
+            "time_login": 38503,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE355",
+            "courier_lat_lng": [
+                -71.08462957659893,
+                42.381059045458144
+            ],
+            "speed": 5,
+            "time_login": 38510,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE356",
+            "courier_lat_lng": [
+                -71.0525775828602,
+                42.3724818063922
+            ],
+            "speed": 5,
+            "time_login": 38512,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE357",
+            "courier_lat_lng": [
+                -71.09848109474537,
+                42.360759552581044
+            ],
+            "speed": 5,
+            "time_login": 38518,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE358",
+            "courier_lat_lng": [
+                -71.08376881702863,
+                42.37982838189707
+            ],
+            "speed": 5,
+            "time_login": 38522,
+            "time_logout": 39104
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE359",
+            "courier_lat_lng": [
+                -71.02509475293871,
+                42.38413013792369
+            ],
+            "speed": 5,
+            "time_login": 38529,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE360",
+            "courier_lat_lng": [
+                -71.02338665518771,
+                42.37876751237874
+            ],
+            "speed": 5,
+            "time_login": 38535,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE361",
+            "courier_lat_lng": [
+                -71.05573513109277,
+                42.37181333586707
+            ],
+            "speed": 5,
+            "time_login": 38541,
+            "time_logout": 39053
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE362",
+            "courier_lat_lng": [
+                -71.08638115373004,
+                42.38346435140589
+            ],
+            "speed": 5,
+            "time_login": 38543,
+            "time_logout": 38948
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE363",
+            "courier_lat_lng": [
+                -71.05957420998601,
+                42.37185236944316
+            ],
+            "speed": 5,
+            "time_login": 38547,
+            "time_logout": 39440
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE364",
+            "courier_lat_lng": [
+                -71.05853881569432,
+                42.382202113096014
+            ],
+            "speed": 5,
+            "time_login": 38558,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE365",
+            "courier_lat_lng": [
+                -71.08803966527287,
+                42.3657394477139
+            ],
+            "speed": 5,
+            "time_login": 38571,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE366",
+            "courier_lat_lng": [
+                -71.06676401402702,
+                42.3822411326909
+            ],
+            "speed": 5,
+            "time_login": 38576,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE367",
+            "courier_lat_lng": [
+                -71.02417788498623,
+                42.367668917928206
+            ],
+            "speed": 5,
+            "time_login": 38587,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE368",
+            "courier_lat_lng": [
+                -71.0172300873934,
+                42.3642111457245
+            ],
+            "speed": 5,
+            "time_login": 38587,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE369",
+            "courier_lat_lng": [
+                -71.04413709759922,
+                42.378018849046946
+            ],
+            "speed": 5,
+            "time_login": 38596,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE370",
+            "courier_lat_lng": [
+                -71.04202678165174,
+                42.36402674671015
+            ],
+            "speed": 5,
+            "time_login": 38608,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE371",
+            "courier_lat_lng": [
+                -71.07929225401227,
+                42.377640465625184
+            ],
+            "speed": 5,
+            "time_login": 38613,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE372",
+            "courier_lat_lng": [
+                -71.02865970089,
+                42.37405811528554
+            ],
+            "speed": 5,
+            "time_login": 38621,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE373",
+            "courier_lat_lng": [
+                -71.04089962217905,
+                42.36385439694691
+            ],
+            "speed": 5,
+            "time_login": 38626,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE374",
+            "courier_lat_lng": [
+                -71.04209138378152,
+                42.37614228331244
+            ],
+            "speed": 5,
+            "time_login": 38627,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE375",
+            "courier_lat_lng": [
+                -71.05200918580292,
+                42.383504660368864
+            ],
+            "speed": 5,
+            "time_login": 38630,
+            "time_logout": 39338
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE376",
+            "courier_lat_lng": [
+                -71.03073629021844,
+                42.383646761072306
+            ],
+            "speed": 5,
+            "time_login": 38636,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE377",
+            "courier_lat_lng": [
+                -71.03869373963022,
+                42.382249924902496
+            ],
+            "speed": 5,
+            "time_login": 38645,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE378",
+            "courier_lat_lng": [
+                -71.05014280811248,
+                42.368553691034684
+            ],
+            "speed": 5,
+            "time_login": 38657,
+            "time_logout": 39208
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE379",
+            "courier_lat_lng": [
+                -71.04327546324373,
+                42.370453957913966
+            ],
+            "speed": 5,
+            "time_login": 38663,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE380",
+            "courier_lat_lng": [
+                -71.07801550163178,
+                42.36559859197096
+            ],
+            "speed": 5,
+            "time_login": 38664,
+            "time_logout": 38680
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE381",
+            "courier_lat_lng": [
+                -71.09172894286951,
+                42.3754012699049
+            ],
+            "speed": 5,
+            "time_login": 38665,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE382",
+            "courier_lat_lng": [
+                -71.03904256795536,
+                42.36004805100592
+            ],
+            "speed": 5,
+            "time_login": 38667,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE383",
+            "courier_lat_lng": [
+                -71.07568510389748,
+                42.36377234636546
+            ],
+            "speed": 5,
+            "time_login": 38676,
+            "time_logout": 38838
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE384",
+            "courier_lat_lng": [
+                -71.06893701626717,
+                42.3622082419138
+            ],
+            "speed": 5,
+            "time_login": 38677,
+            "time_logout": 38726
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE385",
+            "courier_lat_lng": [
+                -71.09333203631111,
+                42.36100825148668
+            ],
+            "speed": 5,
+            "time_login": 38681,
+            "time_logout": 39076
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE386",
+            "courier_lat_lng": [
+                -71.03694739920404,
+                42.361665816098096
+            ],
+            "speed": 5,
+            "time_login": 38694,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE387",
+            "courier_lat_lng": [
+                -71.09162893747157,
+                42.36522952539745
+            ],
+            "speed": 5,
+            "time_login": 38698,
+            "time_logout": 39502
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE388",
+            "courier_lat_lng": [
+                -71.07731163217154,
+                42.3700963189817
+            ],
+            "speed": 5,
+            "time_login": 38707,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE389",
+            "courier_lat_lng": [
+                -71.09587084770703,
+                42.36753511137829
+            ],
+            "speed": 5,
+            "time_login": 38708,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE390",
+            "courier_lat_lng": [
+                -71.0329791886314,
+                42.36796462624798
+            ],
+            "speed": 5,
+            "time_login": 38744,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE391",
+            "courier_lat_lng": [
+                -71.06510965887884,
+                42.38077779015095
+            ],
+            "speed": 5,
+            "time_login": 38755,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE392",
+            "courier_lat_lng": [
+                -71.08531741268358,
+                42.366952778157135
+            ],
+            "speed": 5,
+            "time_login": 38775,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE393",
+            "courier_lat_lng": [
+                -71.04406494614842,
+                42.365618921343355
+            ],
+            "speed": 5,
+            "time_login": 38796,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE394",
+            "courier_lat_lng": [
+                -71.07890116549322,
+                42.37016637175512
+            ],
+            "speed": 5,
+            "time_login": 38797,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE395",
+            "courier_lat_lng": [
+                -71.08196824818347,
+                42.3692501945238
+            ],
+            "speed": 5,
+            "time_login": 38799,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE396",
+            "courier_lat_lng": [
+                -71.03416748441502,
+                42.365040681294886
+            ],
+            "speed": 5,
+            "time_login": 38803,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE397",
+            "courier_lat_lng": [
+                -71.05455873019471,
+                42.36950218262053
+            ],
+            "speed": 5,
+            "time_login": 38808,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE398",
+            "courier_lat_lng": [
+                -71.043713226741,
+                42.36084991335919
+            ],
+            "speed": 5,
+            "time_login": 38813,
+            "time_logout": 39256
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE399",
+            "courier_lat_lng": [
+                -71.02515540368302,
+                42.36370002822523
+            ],
+            "speed": 5,
+            "time_login": 38813,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE400",
+            "courier_lat_lng": [
+                -71.07851671284334,
+                42.3851128820403
+            ],
+            "speed": 5,
+            "time_login": 38829,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE401",
+            "courier_lat_lng": [
+                -71.07678090393051,
+                42.38123326550791
+            ],
+            "speed": 5,
+            "time_login": 38841,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE402",
+            "courier_lat_lng": [
+                -71.01932992324294,
+                42.36669263294267
+            ],
+            "speed": 5,
+            "time_login": 38844,
+            "time_logout": 39138
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE403",
+            "courier_lat_lng": [
+                -71.03428672582588,
+                42.36486533704951
+            ],
+            "speed": 5,
+            "time_login": 38846,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE404",
+            "courier_lat_lng": [
+                -71.0457526837099,
+                42.36448583057909
+            ],
+            "speed": 5,
+            "time_login": 38853,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE405",
+            "courier_lat_lng": [
+                -71.03999364369085,
+                42.37747747480809
+            ],
+            "speed": 5,
+            "time_login": 38855,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE406",
+            "courier_lat_lng": [
+                -71.04665630649382,
+                42.37519711497512
+            ],
+            "speed": 5,
+            "time_login": 38858,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE407",
+            "courier_lat_lng": [
+                -71.07524545371211,
+                42.38394274942878
+            ],
+            "speed": 5,
+            "time_login": 38864,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE408",
+            "courier_lat_lng": [
+                -71.05751747425754,
+                42.37554207624296
+            ],
+            "speed": 5,
+            "time_login": 38870,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE409",
+            "courier_lat_lng": [
+                -71.03570704478133,
+                42.380386214932194
+            ],
+            "speed": 5,
+            "time_login": 38881,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE410",
+            "courier_lat_lng": [
+                -71.04042434163303,
+                42.36473442688641
+            ],
+            "speed": 5,
+            "time_login": 38885,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE411",
+            "courier_lat_lng": [
+                -71.04855735483868,
+                42.36447340704581
+            ],
+            "speed": 5,
+            "time_login": 38887,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE412",
+            "courier_lat_lng": [
+                -71.04305044477428,
+                42.36819905515093
+            ],
+            "speed": 5,
+            "time_login": 38895,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE413",
+            "courier_lat_lng": [
+                -71.01575355338036,
+                42.381236374843525
+            ],
+            "speed": 5,
+            "time_login": 38897,
+            "time_logout": 39272
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE414",
+            "courier_lat_lng": [
+                -71.09641479676996,
+                42.36563751513806
+            ],
+            "speed": 5,
+            "time_login": 38899,
+            "time_logout": 38986
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE415",
+            "courier_lat_lng": [
+                -71.0535678935426,
+                42.37766834324176
+            ],
+            "speed": 5,
+            "time_login": 38900,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE416",
+            "courier_lat_lng": [
+                -71.06921145854866,
+                42.36647900187416
+            ],
+            "speed": 5,
+            "time_login": 38905,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE417",
+            "courier_lat_lng": [
+                -71.08203497122754,
+                42.387841750759364
+            ],
+            "speed": 5,
+            "time_login": 38912,
+            "time_logout": 39217
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE418",
+            "courier_lat_lng": [
+                -71.04100252755465,
+                42.36777092132546
+            ],
+            "speed": 5,
+            "time_login": 38920,
+            "time_logout": 39053
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE419",
+            "courier_lat_lng": [
+                -71.05044626113869,
+                42.36279204872443
+            ],
+            "speed": 5,
+            "time_login": 38922,
+            "time_logout": 39523
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE420",
+            "courier_lat_lng": [
+                -71.05050947819299,
+                42.37940560802164
+            ],
+            "speed": 5,
+            "time_login": 38929,
+            "time_logout": 39480
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE421",
+            "courier_lat_lng": [
+                -71.05976110611307,
+                42.3670745643255
+            ],
+            "speed": 5,
+            "time_login": 38934,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE422",
+            "courier_lat_lng": [
+                -71.0716521375429,
+                42.37493017859152
+            ],
+            "speed": 5,
+            "time_login": 38935,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE423",
+            "courier_lat_lng": [
+                -71.03018451937619,
+                42.385490096687064
+            ],
+            "speed": 5,
+            "time_login": 38938,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE424",
+            "courier_lat_lng": [
+                -71.08049346575467,
+                42.379079325404064
+            ],
+            "speed": 5,
+            "time_login": 38939,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE425",
+            "courier_lat_lng": [
+                -71.06256123305585,
+                42.36867933469217
+            ],
+            "speed": 5,
+            "time_login": 38941,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE426",
+            "courier_lat_lng": [
+                -71.08753791152007,
+                42.379998600310294
+            ],
+            "speed": 5,
+            "time_login": 38953,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE427",
+            "courier_lat_lng": [
+                -71.07468288825487,
+                42.38565881282441
+            ],
+            "speed": 5,
+            "time_login": 38958,
+            "time_logout": 39003
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE428",
+            "courier_lat_lng": [
+                -71.06555945404884,
+                42.367410485015675
+            ],
+            "speed": 5,
+            "time_login": 38978,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE429",
+            "courier_lat_lng": [
+                -71.02924036551444,
+                42.38393422225045
+            ],
+            "speed": 5,
+            "time_login": 38984,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE430",
+            "courier_lat_lng": [
+                -71.06851291862779,
+                42.38472666197291
+            ],
+            "speed": 5,
+            "time_login": 38985,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE431",
+            "courier_lat_lng": [
+                -71.03119479915921,
+                42.375277340391534
+            ],
+            "speed": 5,
+            "time_login": 38995,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE432",
+            "courier_lat_lng": [
+                -71.09466776719277,
+                42.364521925330315
+            ],
+            "speed": 5,
+            "time_login": 38997,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE433",
+            "courier_lat_lng": [
+                -71.0512173318081,
+                42.379730569332146
+            ],
+            "speed": 5,
+            "time_login": 38998,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE434",
+            "courier_lat_lng": [
+                -71.04256244461361,
+                42.36638036088399
+            ],
+            "speed": 5,
+            "time_login": 39006,
+            "time_logout": 39177
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE435",
+            "courier_lat_lng": [
+                -71.0204779111632,
+                42.380123142073906
+            ],
+            "speed": 5,
+            "time_login": 39009,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE436",
+            "courier_lat_lng": [
+                -71.07923313242378,
+                42.36731007780176
+            ],
+            "speed": 5,
+            "time_login": 39018,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE437",
+            "courier_lat_lng": [
+                -71.04673612021597,
+                42.37083243947965
+            ],
+            "speed": 5,
+            "time_login": 39023,
+            "time_logout": 39184
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE438",
+            "courier_lat_lng": [
+                -71.01620351223765,
+                42.365269701443125
+            ],
+            "speed": 5,
+            "time_login": 39028,
+            "time_logout": 39064
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE439",
+            "courier_lat_lng": [
+                -71.03183367612861,
+                42.38765490455377
+            ],
+            "speed": 5,
+            "time_login": 39040,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE440",
+            "courier_lat_lng": [
+                -71.06867619536978,
+                42.379147404517944
+            ],
+            "speed": 5,
+            "time_login": 39050,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE441",
+            "courier_lat_lng": [
+                -71.07011357252964,
+                42.374073100138915
+            ],
+            "speed": 5,
+            "time_login": 39051,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE442",
+            "courier_lat_lng": [
+                -71.06053520962278,
+                42.36624082646962
+            ],
+            "speed": 5,
+            "time_login": 39064,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE443",
+            "courier_lat_lng": [
+                -71.08602784247088,
+                42.36923672697785
+            ],
+            "speed": 5,
+            "time_login": 39068,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE444",
+            "courier_lat_lng": [
+                -71.02994517562445,
+                42.366907630485635
+            ],
+            "speed": 5,
+            "time_login": 39071,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE445",
+            "courier_lat_lng": [
+                -71.09441448941836,
+                42.37382285993541
+            ],
+            "speed": 5,
+            "time_login": 39072,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE446",
+            "courier_lat_lng": [
+                -71.04953154187017,
+                42.36259814505773
+            ],
+            "speed": 5,
+            "time_login": 39074,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE447",
+            "courier_lat_lng": [
+                -71.0357294691482,
+                42.3836362757438
+            ],
+            "speed": 5,
+            "time_login": 39078,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE448",
+            "courier_lat_lng": [
+                -71.01579995488969,
+                42.38617339885829
+            ],
+            "speed": 5,
+            "time_login": 39102,
+            "time_logout": 39397
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE449",
+            "courier_lat_lng": [
+                -71.09823122780156,
+                42.37034800873351
+            ],
+            "speed": 5,
+            "time_login": 39106,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE450",
+            "courier_lat_lng": [
+                -71.08412123980875,
+                42.36663770418205
+            ],
+            "speed": 5,
+            "time_login": 39108,
+            "time_logout": 39283
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE451",
+            "courier_lat_lng": [
+                -71.01759803703538,
+                42.36370194917987
+            ],
+            "speed": 5,
+            "time_login": 39109,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE452",
+            "courier_lat_lng": [
+                -71.0760351587282,
+                42.37975603728943
+            ],
+            "speed": 5,
+            "time_login": 39111,
+            "time_logout": 39326
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE453",
+            "courier_lat_lng": [
+                -71.03533022070427,
+                42.37252597843126
+            ],
+            "speed": 5,
+            "time_login": 39112,
+            "time_logout": 39177
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE454",
+            "courier_lat_lng": [
+                -71.0184023920804,
+                42.360829581748085
+            ],
+            "speed": 5,
+            "time_login": 39117,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE455",
+            "courier_lat_lng": [
+                -71.05601359140014,
+                42.3614695017304
+            ],
+            "speed": 5,
+            "time_login": 39121,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE456",
+            "courier_lat_lng": [
+                -71.01516305859069,
+                42.37013562271149
+            ],
+            "speed": 5,
+            "time_login": 39129,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE457",
+            "courier_lat_lng": [
+                -71.07485716183423,
+                42.360141399785654
+            ],
+            "speed": 5,
+            "time_login": 39132,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE458",
+            "courier_lat_lng": [
+                -71.03038496237929,
+                42.37299044090144
+            ],
+            "speed": 5,
+            "time_login": 39141,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE459",
+            "courier_lat_lng": [
+                -71.04131747054358,
+                42.3722857736347
+            ],
+            "speed": 5,
+            "time_login": 39153,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE460",
+            "courier_lat_lng": [
+                -71.05893394081536,
+                42.36917858530867
+            ],
+            "speed": 5,
+            "time_login": 39154,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE461",
+            "courier_lat_lng": [
+                -71.09983682906999,
+                42.37136106632619
+            ],
+            "speed": 5,
+            "time_login": 39161,
+            "time_logout": 39515
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE462",
+            "courier_lat_lng": [
+                -71.09339201525773,
+                42.37898148694184
+            ],
+            "speed": 5,
+            "time_login": 39162,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE463",
+            "courier_lat_lng": [
+                -71.0166949770914,
+                42.38476084071834
+            ],
+            "speed": 5,
+            "time_login": 39165,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE464",
+            "courier_lat_lng": [
+                -71.05016633866309,
+                42.36187344190012
+            ],
+            "speed": 5,
+            "time_login": 39185,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE465",
+            "courier_lat_lng": [
+                -71.0634970457321,
+                42.36870010103659
+            ],
+            "speed": 5,
+            "time_login": 39186,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE466",
+            "courier_lat_lng": [
+                -71.04109635648854,
+                42.38154665673859
+            ],
+            "speed": 5,
+            "time_login": 39190,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE467",
+            "courier_lat_lng": [
+                -71.02231335764978,
+                42.368054791445246
+            ],
+            "speed": 5,
+            "time_login": 39210,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE468",
+            "courier_lat_lng": [
+                -71.06834794708405,
+                42.375389586209806
+            ],
+            "speed": 5,
+            "time_login": 39215,
+            "time_logout": 39480
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE469",
+            "courier_lat_lng": [
+                -71.02772384380081,
+                42.3614312093393
+            ],
+            "speed": 5,
+            "time_login": 39216,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE470",
+            "courier_lat_lng": [
+                -71.04739204556184,
+                42.36852938822658
+            ],
+            "speed": 5,
+            "time_login": 39219,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE471",
+            "courier_lat_lng": [
+                -71.04028374304177,
+                42.36470419995819
+            ],
+            "speed": 5,
+            "time_login": 39240,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE472",
+            "courier_lat_lng": [
+                -71.09663789803672,
+                42.383646706561144
+            ],
+            "speed": 5,
+            "time_login": 39244,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE473",
+            "courier_lat_lng": [
+                -71.02886406379938,
+                42.36895063738678
+            ],
+            "speed": 5,
+            "time_login": 39246,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE474",
+            "courier_lat_lng": [
+                -71.02604957119824,
+                42.385609339172994
+            ],
+            "speed": 5,
+            "time_login": 39249,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE475",
+            "courier_lat_lng": [
+                -71.03767545490678,
+                42.37609292651501
+            ],
+            "speed": 5,
+            "time_login": 39258,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE476",
+            "courier_lat_lng": [
+                -71.04100929696885,
+                42.36240768793126
+            ],
+            "speed": 5,
+            "time_login": 39266,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE477",
+            "courier_lat_lng": [
+                -71.05577200191402,
+                42.36045503164058
+            ],
+            "speed": 5,
+            "time_login": 39267,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE478",
+            "courier_lat_lng": [
+                -71.04096544383114,
+                42.37662442500429
+            ],
+            "speed": 5,
+            "time_login": 39272,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE479",
+            "courier_lat_lng": [
+                -71.03144195974028,
+                42.384266211173895
+            ],
+            "speed": 5,
+            "time_login": 39289,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE480",
+            "courier_lat_lng": [
+                -71.01533280116095,
+                42.36785008599595
+            ],
+            "speed": 5,
+            "time_login": 39298,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE481",
+            "courier_lat_lng": [
+                -71.09926600979354,
+                42.381024252718525
+            ],
+            "speed": 5,
+            "time_login": 39300,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE482",
+            "courier_lat_lng": [
+                -71.06713074858845,
+                42.38179769970429
+            ],
+            "speed": 5,
+            "time_login": 39300,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE483",
+            "courier_lat_lng": [
+                -71.08715324899585,
+                42.37033642600479
+            ],
+            "speed": 5,
+            "time_login": 39302,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE484",
+            "courier_lat_lng": [
+                -71.04901859321905,
+                42.380369350612426
+            ],
+            "speed": 5,
+            "time_login": 39308,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE485",
+            "courier_lat_lng": [
+                -71.014973960397,
+                42.37198738525541
+            ],
+            "speed": 5,
+            "time_login": 39315,
+            "time_logout": 39540
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE486",
+            "courier_lat_lng": [
+                -71.02264852461306,
+                42.38097723478017
+            ],
+            "speed": 5,
+            "time_login": 39320,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE487",
+            "courier_lat_lng": [
+                -71.06272065018739,
+                42.37672251672009
+            ],
+            "speed": 5,
+            "time_login": 39324,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE488",
+            "courier_lat_lng": [
+                -71.01668421983574,
+                42.38331197389278
+            ],
+            "speed": 5,
+            "time_login": 39331,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE489",
+            "courier_lat_lng": [
+                -71.079772871806,
+                42.37373032257709
+            ],
+            "speed": 5,
+            "time_login": 39333,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE490",
+            "courier_lat_lng": [
+                -71.03684710841777,
+                42.38774421598098
+            ],
+            "speed": 5,
+            "time_login": 39334,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE491",
+            "courier_lat_lng": [
+                -71.0218749203618,
+                42.36203770311735
+            ],
+            "speed": 5,
+            "time_login": 39344,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE492",
+            "courier_lat_lng": [
+                -71.03690694074788,
+                42.376590278194875
+            ],
+            "speed": 5,
+            "time_login": 39344,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE493",
+            "courier_lat_lng": [
+                -71.03483732022487,
+                42.37848023635635
+            ],
+            "speed": 5,
+            "time_login": 39346,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE494",
+            "courier_lat_lng": [
+                -71.09498426079959,
+                42.37350959657647
+            ],
+            "speed": 5,
+            "time_login": 39351,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE495",
+            "courier_lat_lng": [
+                -71.02710118181774,
+                42.38209575521835
+            ],
+            "speed": 5,
+            "time_login": 39358,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE496",
+            "courier_lat_lng": [
+                -71.03407032032436,
+                42.38502125432334
+            ],
+            "speed": 5,
+            "time_login": 39370,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE497",
+            "courier_lat_lng": [
+                -71.01426336664177,
+                42.375692631865334
+            ],
+            "speed": 5,
+            "time_login": 39374,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE498",
+            "courier_lat_lng": [
+                -71.06807005709486,
+                42.37740572199755
+            ],
+            "speed": 5,
+            "time_login": 39381,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE499",
+            "courier_lat_lng": [
+                -71.09898669120591,
+                42.373109428677914
+            ],
+            "speed": 5,
+            "time_login": 39387,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE500",
+            "courier_lat_lng": [
+                -71.06658520373036,
+                42.37916684574013
+            ],
+            "speed": 5,
+            "time_login": 39388,
+            "time_logout": 39480
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE501",
+            "courier_lat_lng": [
+                -71.08278758048782,
+                42.3743045153703
+            ],
+            "speed": 5,
+            "time_login": 39389,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE502",
+            "courier_lat_lng": [
+                -71.08222256117288,
+                42.385986073059264
+            ],
+            "speed": 5,
+            "time_login": 39393,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE503",
+            "courier_lat_lng": [
+                -71.04341091533429,
+                42.38149796538732
+            ],
+            "speed": 5,
+            "time_login": 39422,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE504",
+            "courier_lat_lng": [
+                -71.08417389942095,
+                42.3742100300516
+            ],
+            "speed": 5,
+            "time_login": 39425,
+            "time_logout": 39540
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE505",
+            "courier_lat_lng": [
+                -71.08055759736762,
+                42.36823759531837
+            ],
+            "speed": 5,
+            "time_login": 39427,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE506",
+            "courier_lat_lng": [
+                -71.08668493969468,
+                42.3630321299588
+            ],
+            "speed": 5,
+            "time_login": 39429,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE507",
+            "courier_lat_lng": [
+                -71.01587811932121,
+                42.374153291300175
+            ],
+            "speed": 5,
+            "time_login": 39430,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE508",
+            "courier_lat_lng": [
+                -71.03064719414296,
+                42.363308737290474
+            ],
+            "speed": 5,
+            "time_login": 39433,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE509",
+            "courier_lat_lng": [
+                -71.03630899871007,
+                42.38051162120023
+            ],
+            "speed": 5,
+            "time_login": 39438,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE510",
+            "courier_lat_lng": [
+                -71.0998424724359,
+                42.37168744036145
+            ],
+            "speed": 5,
+            "time_login": 39443,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE511",
+            "courier_lat_lng": [
+                -71.0751154387625,
+                42.37988493293797
+            ],
+            "speed": 5,
+            "time_login": 39449,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE512",
+            "courier_lat_lng": [
+                -71.09178180980794,
+                42.369409686648794
+            ],
+            "speed": 5,
+            "time_login": 39451,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE513",
+            "courier_lat_lng": [
+                -71.02089146919458,
+                42.38763989898191
+            ],
+            "speed": 5,
+            "time_login": 39452,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE514",
+            "courier_lat_lng": [
+                -71.07984057587026,
+                42.38510203155761
+            ],
+            "speed": 5,
+            "time_login": 39454,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE515",
+            "courier_lat_lng": [
+                -71.05785868719688,
+                42.364469910337725
+            ],
+            "speed": 5,
+            "time_login": 39460,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE516",
+            "courier_lat_lng": [
+                -71.0362802021581,
+                42.38305313135304
+            ],
+            "speed": 5,
+            "time_login": 39475,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE517",
+            "courier_lat_lng": [
+                -71.08587754117099,
+                42.37876537931973
+            ],
+            "speed": 5,
+            "time_login": 39488,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE518",
+            "courier_lat_lng": [
+                -71.07918675879351,
+                42.38718319059506
+            ],
+            "speed": 5,
+            "time_login": 39491,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE519",
+            "courier_lat_lng": [
+                -71.08304612747641,
+                42.382474221426136
+            ],
+            "speed": 5,
+            "time_login": 39492,
+            "time_logout": 39535
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE520",
+            "courier_lat_lng": [
+                -71.06084163913047,
+                42.37648027850243
+            ],
+            "speed": 5,
+            "time_login": 39494,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE521",
+            "courier_lat_lng": [
+                -71.0636735511578,
+                42.38413442560031
+            ],
+            "speed": 5,
+            "time_login": 39496,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE522",
+            "courier_lat_lng": [
+                -71.04681113895661,
+                42.37937246596072
+            ],
+            "speed": 5,
+            "time_login": 39499,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE523",
+            "courier_lat_lng": [
+                -71.07313964607592,
+                42.385680293092825
+            ],
+            "speed": 5,
+            "time_login": 39506,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE524",
+            "courier_lat_lng": [
+                -71.06136599574252,
+                42.36977677778816
+            ],
+            "speed": 5,
+            "time_login": 39516,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE525",
+            "courier_lat_lng": [
+                -71.03999438012497,
+                42.387836240152
+            ],
+            "speed": 5,
+            "time_login": 39542,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE526",
+            "courier_lat_lng": [
+                -71.03598488335709,
+                42.361681280538484
+            ],
+            "speed": 5,
+            "time_login": 39547,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE527",
+            "courier_lat_lng": [
+                -71.07329468594709,
+                42.36175661920827
+            ],
+            "speed": 5,
+            "time_login": 39561,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE528",
+            "courier_lat_lng": [
+                -71.07862455752014,
+                42.3764529241702
+            ],
+            "speed": 5,
+            "time_login": 39562,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE529",
+            "courier_lat_lng": [
+                -71.0263136528248,
+                42.383018239981915
+            ],
+            "speed": 5,
+            "time_login": 39575,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE530",
+            "courier_lat_lng": [
+                -71.02497823619406,
+                42.36876259821094
+            ],
+            "speed": 5,
+            "time_login": 39584,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE531",
+            "courier_lat_lng": [
+                -71.0619726243902,
+                42.36927756799738
+            ],
+            "speed": 5,
+            "time_login": 39586,
+            "time_logout": 39601
+        },
+        {
+            "capacity": 6,
+            "courier_id": "DE532",
+            "courier_lat_lng": [
+                -71.0143451446529,
+                42.3787103663727
+            ],
+            "speed": 5,
+            "time_login": 39597,
+            "time_logout": 39601
+        }
+    ]
+}
